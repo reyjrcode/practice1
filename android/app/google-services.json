@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999723499167",
+    "project_id": "jegoshit",
+    "storage_bucket": "jegoshit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999723499167:android:b75a4c59ff5992ad4eecaa",
+        "android_client_info": {
+          "package_name": "ph.jegoshit.com.jegoshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999723499167-sc8k10hff5nstfap3cda2khu5icra5so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Yll3LR6MMs4s0q4mEbjPzH-Wihl7Z9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999723499167-sc8k10hff5nstfap3cda2khu5icra5so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
